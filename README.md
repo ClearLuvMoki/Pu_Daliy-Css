@@ -7,4 +7,4 @@
 
 
 # 20.4.20 Login
-![Image text](https://github.com/ClearLuvMoki/Pu_Daliy-Css/blob/master/ShowImg/login.png)
+![Image text](https://github.com/ClearLuvMoki/Pu_Daliy-Css/blob/master/ShowImg/login.gif)
